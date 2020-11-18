@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-md-8 ">
                     <p class="text-center lead ">
-                        Me gusta programar y los nuevos desafíos. Mi pasión por la tecnología me lleva a trabajar duro para para crecer en mi carrera en el área TIC, con ganas y mucha ilusión!!
+                        Me gusta programar y los nuevos desafíos. Mi pasión por la tecnología me lleva a trabajar duro para para crecer en mi carrera en el área TIC, con ganas y mucha ilusión!!!
                     </p>
 
                     <!--
