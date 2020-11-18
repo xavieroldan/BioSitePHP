@@ -1,0 +1,136 @@
+/*icon */
+
+.fab {
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+
+/*font*/
+
+body {
+    font-family: "Poppins";
+}
+/*background color*/
+
+body {
+    background-color: rgb(15, 15, 15);
+    color: whitesmoke;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url(img/bg_code.jpg);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 200%;
+    overflow-x: scroll;
+}
+
+
+/*jumbotron*/
+
+.jumbotron {
+    background-color: transparent;
+    text-align: center;
+    font-weight: 800;
+}
+
+
+/*links*/
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:link {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:visited {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:active {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+/*dropdown*/
+
+.dropdown {
+    list-style: none;
+    background: transparent;
+    padding: 10px;
+    display: inline-block;
+}
+
+.dropdown .nav-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.dropdown .dropdown-menu a {
+    color: #000;
+    text-decoration: none;
+}
+
+.dropdown .btn {
+    background: transparent;
+    color: #fff;
+}
+
+.dropdown .btn:hover {
+    background: #fff;
+    color: #000;
+}
+
+.dropdown .btn:active {
+    background: #fff;
+    color: #000;
+}
+
+.dropdown .btn:focus {
+    background: #000;
+    color: #fff;
+}
+
+.dropdown-menu .dropdown-item {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 5px;
+    border: 0px;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.nav {
+    border: 0 !important;
+}
+
+
+/*TODEBUG*/
+
+
+/* .row {
+    border-bottom: 1px solid red;
+} */
