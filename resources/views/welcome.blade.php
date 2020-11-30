@@ -154,7 +154,7 @@ Utilizo la suite de Google para organizar mi trabajo a diario, así como herrami
                 <h3>
                     <div class="row align-items-end" style="font-size:3vw;">
                         <div class="col-md-3 text-center">
-                            <a href="# ">HOME</a>
+                            <a href="/">HOME</a>
                         </div>
                         <div class="col-md-3 text-center ">
                             <a href="# ">PROJECTS</a>
