@@ -16,5 +16,5 @@
 <script language="javascript" type="text/javascript">
 window.setTimeout(function () {
   window.location.reload();
-}, 5000);
+}, 10000);
 </script>
