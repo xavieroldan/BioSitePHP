@@ -21,9 +21,4 @@ class IndexController extends Controller
         }         
         return view('index', compact('text'));
     }
-
-    // public function index()
-    // {                    
-    //     return view('index');
-    // }
 }
